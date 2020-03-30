@@ -1,9 +1,9 @@
-# Semillero-programacion-20201
+# Semillero de programación para ciencias sociales (20201)
 Repo público con el material de la primera versión del Semillero de programación para ciencias sociales de la Facultad de Ciencias sociales en la Universidad de los Andes.
 
 Cada notebook tiene el código con la explicación correspondiente.
 
-Este semillero es coordinado por: Felipe Botero (Congreso Visible), Wilson Forero y Laura Merchán (Observatorio de la democracia).
+Este semillero es coordinado por: Felipe Botero ([Congreso Visible](https://congresovisible.uniandes.edu.co)), Wilson Forero y Laura Merchán ([Observatorio de la democracia](https://obsdemocracia.org/)).
 
 ## Contenido:
 
