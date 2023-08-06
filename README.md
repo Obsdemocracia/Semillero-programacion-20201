@@ -7,7 +7,7 @@ A lo largo del semestre vamos a aprender rudimentos de lenguajes de programació
 Durante el semillero, se combinarán dos tipos de actividades. De un lado se realizarán ejercicios básicos para aprender programar en Python; de otro lado, se utilizarán problemas concretos de investigación en ciencias sociales para poner en uso las herramientas aprendidas
 
 
-Este semillero es coordinado por: Felipe Botero ([Congreso Visible](https://congresovisible.uniandes.edu.co)), Juan Carlos Rodríguez, Laura Merchán, Wilson Forero y Juan José Corredor ([Observatorio de la democracia](https://obsdemocracia.org/)).
+Este semillero es coordinado por: Felipe Botero ([Congreso Visible](https://congresovisible.uniandes.edu.co)), Juan Carlos Rodríguez, Laura Merchán, Wilson Forero y Juan José Corredor ([Observatorio de la democracia](https://obsdemocracia.org/))
 
 ## Contenido:
 
